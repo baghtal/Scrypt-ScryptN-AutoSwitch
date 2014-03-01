@@ -1,7 +1,11 @@
 Scrypt-ScryptN-AutoSwitch
 =========================
 
-An Autohotkey scrypt to watch the API of TradeMyBit.com and switch between profiles for your miner between Scrypt and Scrypt-N functions. Built for use with CGwatcher, but i plan to extend it to include functions for your own .bat files as well.
+An Autohotkey scrypt to watch an API and switch between profiles for your miner between Scrypt and Scrypt-N functions. Built for use with CGwatcher, but i plan to extend it to include functions for your own .bat files as well.
+
+Thanks to: 
+  -https://github.com/neurocis/coinvert for some ideas relating to the API
+  -clubbby for the insipration
 
 -Outline of work to do:
 1. JSON parse to check the API
