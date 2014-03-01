@@ -6,6 +6,7 @@ An Autohotkey scrypt to watch an API and switch between profiles for your miner 
 Thanks to: 
   -https://github.com/neurocis/coinvert for some ideas relating to the API
   -clubbby for the insipration
+  -Paulbjl2 for some common sense checks and good ideas
 
 -Outline of work to do:
 1. JSON parse to check the API
