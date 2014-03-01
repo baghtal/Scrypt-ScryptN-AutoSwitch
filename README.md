@@ -16,7 +16,7 @@ An Autohotkey scrypt to watch the API of TradeMyBit.com and switch between profi
 
 3. Variable to select CGWatcher, or .bat file select
   -Store .exe location and create .bat file On the fly with given options?
-  -Update profile record with preference numbers for CGwatcher and restart it?
+  -Load the profiles & Orders, and allow selection for reordering preferences. Then restart CGWatcher? Is there a way to restart the miner and have CGWatcher load profiels again without a restart?
 
 4. GUI
   -GUI to make this all pretty
