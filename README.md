@@ -28,3 +28,6 @@ Thanks to:
   -GUI to make this all pretty
 
 5. .exe compile
+
+
+When i'm out of Alpha I'll provide compiled versions in the mean time you can use AHK's AHK to EXE compiler -- http://www.autohotkey.com/docs/Scripts.htm#ahk2exe
