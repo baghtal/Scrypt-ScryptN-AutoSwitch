@@ -8,6 +8,8 @@ Thanks to:
   -clubbby for the insipration
   -Paulbjl2 for some common sense checks and good ideas
   -http://www.clker.com/ for the free clipart :D
+  
+  This version works with CGMiner / SGMiner / etc... or with CUDA Miner. Nothing has been build for CGWatcher yet...
 
 -Outline of work to do:
 1. JSON parse to check the API
