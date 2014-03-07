@@ -1,3 +1,12 @@
+I Moved!
+
+
+https://sourceforge.net/projects/scryptswitcher/
+
+
+
+
+
 Scrypt-ScryptN-AutoSwitch
 =========================
 
